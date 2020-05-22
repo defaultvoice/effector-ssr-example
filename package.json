@@ -12,6 +12,7 @@
     "commit": "git-cz"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "cross-fetch": "^3.0.4",
     "effector": "20.15",
     "effector-inspector": "^0.2.2",
